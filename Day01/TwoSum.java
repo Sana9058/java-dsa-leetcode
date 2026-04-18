@@ -1,4 +1,4 @@
-// Day 01 - Two Sum
+// Day 01 – Two Sum Solution
 // LeetCode Problem: Two Sum
 // https://leetcode.com/problems/two-sum/
 
