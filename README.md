@@ -7,9 +7,9 @@ Here, I document my daily progress while solving **Data Structures and Algorithm
 
 ## 📊 Current Progress
 
-✅ Days Completed: 4 / 100  
-🔥 Current Streak: 4 Days  
-🎯 Next Goal: Reach Day 10  
+✅ Days Completed: 5 / 100  
+🔥 Current Streak: 5 Days  
+🎯 Next Goal: Reach Day 100 
 
 ---
 
@@ -29,7 +29,8 @@ Each folder represents one day of the challenge:
 Day01 → Two Sum  
 Day02 → Valid Anagram  
 Day03 → Palindrome Number  
-Day04 → Remove Duplicates from Sorted Array  
+Day04 → Remove Duplicates from Sorted Array 
+Day05 → Remove Element
 
 More days will be added as I progress 🚀
 
@@ -41,7 +42,8 @@ More days will be added as I progress 🚀
 - HashMap  
 - Strings  
 - Math  
-- Two Pointers  
+- Two Pointers
+- - In-place Algorithms 
 
 ---
 
@@ -53,6 +55,7 @@ More days will be added as I progress 🚀
 | Day 02 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy |
 | Day 03 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy |
 | Day 04 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |
+| Day 05 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy |
 
 ---
 
