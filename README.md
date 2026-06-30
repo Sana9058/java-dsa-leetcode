@@ -26,11 +26,11 @@ Here, I document my daily progress while solving **Data Structures and Algorithm
 
 Each folder represents one day of the challenge:
 
-Day01 → Two Sum  
-Day02 → Valid Anagram  
-Day03 → Palindrome Number  
-Day04 → Remove Duplicates from Sorted Array 
-Day05 → Remove Element
+- Day01 → Two Sum  
+- Day02 → Valid Anagram  
+- Day03 → Palindrome Number  
+- Day04 → Remove Duplicates from Sorted Array 
+- Day05 → Remove Element
 
 More days will be added as I progress 🚀
 
