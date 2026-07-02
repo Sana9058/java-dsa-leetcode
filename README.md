@@ -7,8 +7,8 @@ Here, I document my daily progress while solving **Data Structures and Algorithm
 
 ## 📊 Current Progress
 
-✅ Days Completed: 5 / 100  
-🔥 Current Streak: 5 Days  
+✅ Days Completed: 6 / 100  
+🔥 Current Streak: 6 Days  
 🎯 Next Goal: Reach Day 100 
 
 ---
@@ -31,6 +31,7 @@ Each folder represents one day of the challenge:
 - Day03 → Palindrome Number  
 - Day04 → Remove Duplicates from Sorted Array 
 - Day05 → Remove Element
+- Day06 → Contains Duplicate
 
 More days will be added as I progress 🚀
 
@@ -39,11 +40,12 @@ More days will be added as I progress 🚀
 ## 🛠 Topics Covered So Far
 
 - Arrays  
-- HashMap  
+- HashMap
+- HashSet  
 - Strings  
 - Math  
 - Two Pointers
-- - In-place Algorithms 
+- In-place Algorithms 
 
 ---
 
@@ -56,6 +58,7 @@ More days will be added as I progress 🚀
 | Day 03 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy |
 | Day 04 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |
 | Day 05 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy |
+| Day 06 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy |
 
 ---
 
