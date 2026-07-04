@@ -7,8 +7,8 @@ Here, I document my daily progress while solving **Data Structures and Algorithm
 
 ## 📊 Current Progress
 
-✅ Days Completed: 6 / 100  
-🔥 Current Streak: 6 Days  
+✅ Days Completed: 7 / 100  
+🔥 Current Streak: 7 Days  
 🎯 Next Goal: Reach Day 100 
 
 ---
@@ -32,6 +32,7 @@ Each folder represents one day of the challenge:
 - Day04 → Remove Duplicates from Sorted Array 
 - Day05 → Remove Element
 - Day06 → Contains Duplicate
+- Day07 → Add Digits
 
 More days will be added as I progress 🚀
 
@@ -45,7 +46,8 @@ More days will be added as I progress 🚀
 - Strings  
 - Math  
 - Two Pointers
-- In-place Algorithms 
+- In-place Algorithms
+- Number Manipulation 
 
 ---
 
@@ -59,6 +61,7 @@ More days will be added as I progress 🚀
 | Day 04 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |
 | Day 05 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy |
 | Day 06 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy |
+| Day 07 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy |
 
 ---
 
