@@ -7,8 +7,8 @@ Here, I document my daily progress while solving **Data Structures and Algorithm
 
 ## 📊 Current Progress
 
-✅ Days Completed: 8 / 100  
-🔥 Current Streak: 8 Days  
+✅ Days Completed: 9 / 100  
+🔥 Current Streak: 9 Days  
 🎯 Next Goal: Reach Day 100 
 
 ---
@@ -34,6 +34,7 @@ Each folder represents one day of the challenge:
 - Day06 → Contains Duplicate
 - Day07 → Add Digits
 - Day08 → Spiral Matrix
+- Day09 → Search in Rotated Sorted Array
 
 More days will be added as I progress 🚀
 
@@ -50,6 +51,7 @@ More days will be added as I progress 🚀
 - In-place Algorithms
 - Number Manipulation
 - Matrix Traversal
+- Binary Search
 
 ---
 
@@ -65,6 +67,7 @@ More days will be added as I progress 🚀
 | Day 06 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy |
 | Day 07 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy |
 | Day 08 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium |
+| Day 09 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium |
 
 ---
 
