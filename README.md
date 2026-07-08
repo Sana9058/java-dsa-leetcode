@@ -7,8 +7,8 @@ Here, I document my daily progress while solving **Data Structures and Algorithm
 
 ## 📊 Current Progress
 
-✅ Days Completed: 9 / 100  
-🔥 Current Streak: 9 Days  
+✅ Days Completed: 10 / 100  
+🔥 Current Streak: 10 Days  
 🎯 Next Goal: Reach Day 100 
 
 ---
@@ -35,6 +35,7 @@ Each folder represents one day of the challenge:
 - Day07 → Add Digits
 - Day08 → Spiral Matrix
 - Day09 → Search in Rotated Sorted Array
+- Day10 → Find Greatest Common Divisor of Array
 
 More days will be added as I progress 🚀
 
@@ -52,6 +53,7 @@ More days will be added as I progress 🚀
 - Number Manipulation
 - Matrix Traversal
 - Binary Search
+- Euclidean Algorithm (GCD)
 
 ---
 
@@ -68,6 +70,7 @@ More days will be added as I progress 🚀
 | Day 07 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy |
 | Day 08 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium |
 | Day 09 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium |
+| Day 10 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy |
 
 ---
 
