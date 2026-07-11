@@ -7,8 +7,8 @@ Here, I document my daily progress while solving **Data Structures and Algorithm
 
 ## 📊 Current Progress
 
-✅ Days Completed: 12 / 100  
-🔥 Current Streak: 12 Days  
+✅ Days Completed: 13 / 100  
+🔥 Current Streak: 13 Days  
 🎯 Next Goal: Reach Day 100 
 
 ---
@@ -38,6 +38,7 @@ Each folder represents one day of the challenge:
 - Day10 → Find Greatest Common Divisor of Array
 - Day11 → Majority Element
 - Day12 → Happy Number
+- Day13 → Matrix Diagonal Sum
 
 More days will be added as I progress 🚀
 
@@ -58,6 +59,7 @@ More days will be added as I progress 🚀
 - Euclidean Algorithm (GCD)
 - Moore's Voting Algorithm
 - Cycle Detection
+- Matrix Diagonal Traversal
 
 ---
 
@@ -77,6 +79,7 @@ More days will be added as I progress 🚀
 | Day 10 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy |
 | Day 11 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy |
 | Day 12 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy |
+| Day 13 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | Easy |
 
 ---
 
