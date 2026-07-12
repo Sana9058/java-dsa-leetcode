@@ -7,8 +7,8 @@ Here, I document my daily progress while solving **Data Structures and Algorithm
 
 ## 📊 Current Progress
 
-✅ Days Completed: 13 / 100  
-🔥 Current Streak: 13 Days  
+✅ Days Completed: 14 / 100  
+🔥 Current Streak: 14 Days  
 🎯 Next Goal: Reach Day 100 
 
 ---
@@ -39,6 +39,7 @@ Each folder represents one day of the challenge:
 - Day11 → Majority Element
 - Day12 → Happy Number
 - Day13 → Matrix Diagonal Sum
+- Day14 → Reverse Integer
 
 More days will be added as I progress 🚀
 
@@ -60,6 +61,7 @@ More days will be added as I progress 🚀
 - Moore's Voting Algorithm
 - Cycle Detection
 - Matrix Diagonal Traversal
+- Integer Overflow Handling
 
 ---
 
@@ -80,6 +82,7 @@ More days will be added as I progress 🚀
 | Day 11 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy |
 | Day 12 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy |
 | Day 13 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | Easy |
+| Day 14 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium |
 
 ---
 
